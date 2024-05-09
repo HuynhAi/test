@@ -1,0 +1,6 @@
+- Cài đặt nodejs, kiểm tra có npm: npm-v
+- tạo project: npx create-payload-app@latest
+- lên mongo cloud: tạo DB,copy password và đường dẫn bỏ để vào
+- lệnh chạy là: npm run dev; cổng localost:3000(Nếu lỗi thì đổi cổng khác)
+- DB: https://cloud.mongodb.com/v2/663994da16896b19671f2a91#/clusters 
+- collection gần giống table bên SQL
